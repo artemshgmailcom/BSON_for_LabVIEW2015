@@ -1,0 +1,6 @@
+5000 Clusters not allowed
+5001 Element %s not found
+5002 (warn) duplicate element name %s
+5003 array instead of element
+5004 Elements %s have different types (single value and internal document)
+5005 array element type not supported
